@@ -6,9 +6,9 @@ Abstract:
 Although the program is effective,it’s not clear who benefits the most.Are there heterogeneous effects?To answer this question we search correlations between the variables on which the article showed that PisoFirme had a positive effect and engineered variables x*y(x represents the fraction of rooms with cement in the house and y is a variable that could affect the impact of having cement floors).First,we want to know if cement floors have an impact because of sanitary and aesthetic reasons or also because they’re given through a state program(placebo effect).For that we will fit a regression similar to the ones in Table6,but only with statistically significant variables,and compare means between Torreon and the houses in Durango that have cement floors only.Additionally,we will add a dependent variable to account for the number of children born in the wake of the program,to see if PisoFirme had an impact on the number of births.
 
 Research questions:
-1. Did Piso Firme have a heterogeneous impact on the population ?
-2. Did Piso Firme have a placebo effect ?
-3. Did Piso Firme have an effect on the number of births ?
+1. Did PisoFirme have a heterogeneous impact on the population ?
+2. Did PisoFirme have a placebo effect ?
+3. Did PisoFirme have an effect on the number of births ?
 
 Proposed dataset:
 - PisoFirme_AEJPol-20070024_household.dta in the article’s dataset. It provides us with all the useful information: the demographic, economic, cement-floors-related and “psychological” data that we need.
