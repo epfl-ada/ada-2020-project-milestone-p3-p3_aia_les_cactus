@@ -11,7 +11,7 @@ Research questions:
 3. Did Piso Firme have an effect on the number of births ?
 
 Proposed dataset:
-PisoFirme_AEJPol-20070024_household.dta in the article’s dataset. It provides us with all the useful information: the demographic, economic, cement-floors-related and “psychological” data that we need.
+- PisoFirme_AEJPol-20070024_household.dta in the article’s dataset. It provides us with all the useful information: the demographic, economic, cement-floors-related and “psychological” data that we need.
 
 Methods:
 - Features engineering: For the correlation part, we will create features that summarize multiple related features. For example, for the level of education, we will take the mean of the level of education of the people running the household (mother and / or father). Similarly, we will regroup the variables corresponding to the access to electricity, water and garbage collection. Afterwards, we will multiply these variables by the share of room with cements to create the variable x * y that we discussed in the abstract.
