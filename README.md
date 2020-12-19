@@ -1,6 +1,6 @@
 # ada-2020-project-milestone-p3-p3_aia_les_cactus
 
-Title: Detecting heterogeneous effects in the benefits of Piso Firme
+Title: Socio-economic study on disparities inside a mexican slum
 
 Abstract:
 Although the program is effective, it’s not clear who benefits the most. Are there heterogeneous effects? To answer this question we search correlations between the variables on which the article showed that PisoFirme had a positive effect and engineered variables. Looking at the correlations, we find some interesting results concerning the number of children per household and the financial situation of the household. These results are even representative of worldwide trends. Aside from that, still focussed on social repercussions, we investigated whether or not PisoFirme had a Placebo effect using bootstrapped confidence intervals.
